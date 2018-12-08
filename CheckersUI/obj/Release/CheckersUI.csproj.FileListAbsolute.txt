@@ -1,0 +1,10 @@
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\bin\Release\CheckersUI.exe.config
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\bin\Release\CheckersUI.exe
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\bin\Release\CheckersUI.pdb
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\bin\Release\CheckersLogic.dll
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\bin\Release\CheckersLogic.pdb
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\obj\Release\CheckersUI.csprojResolveAssemblyReference.cache
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\obj\Release\CheckersUI.Properties.Resources.resources
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\obj\Release\CheckersUI.csproj.GenerateResource.Cache
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\obj\Release\CheckersUI.exe
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersUI\obj\Release\CheckersUI.pdb

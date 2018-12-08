@@ -1,0 +1,5 @@
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersLogic\bin\Debug\CheckersLogic.dll
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersLogic\bin\Debug\CheckersLogic.pdb
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersLogic\obj\Debug\CheckersLogic.csprojResolveAssemblyReference.cache
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersLogic\obj\Debug\CheckersLogic.dll
+D:\Documents\לימודים\שנה א\סמסטר ב\מדעי המחשב\B18 Ex05 Guy 201585486 Or 204261077\CheckersLogic\obj\Debug\CheckersLogic.pdb
